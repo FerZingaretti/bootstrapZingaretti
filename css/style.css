@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 5rem; ;
+}
+.colorBoton{
+    background-color: rgb(29, 129, 129);
+}
+.card{
+    background-color: rgb(208, 244, 232);
+}
+.navbar{
+    padding: 5rem;
+    
+}
+.color-nav{
+    background-color: rgb(208, 244, 232);
+}
+.fondo{
+   background-color: rgb(5, 186, 126);
+}
+.marginText{
+    margin: 5px;
+    padding: 3px;
+}
+.formulario{
+    margin: 10px;
+}
